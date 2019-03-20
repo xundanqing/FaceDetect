@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FaceDetectVer4</string>
+    <string name="MaskTextView">请将人脸图像放入扫描框</string>
+    <string name="MaskTextFaceDetecting">扫描中请等待...</string>
+    <string name="RegisterTitl">欢迎使用xx人脸注册系统</string>
+    <string name="name">姓名</string>
+    <string name="addr">住址</string>
+    <string name="idnum">证件号码</string>
+    <string name="phonenum">电话号码</string>
+    <string name="scantext">请对准扫描框</string>
+    <string name="scaning">扫描中请稍后</string>
+    <string name="scanok">扫描成功请输入个人信息</string>
+</resources>
